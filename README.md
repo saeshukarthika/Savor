@@ -1,0 +1,3 @@
+**SAVOR
+Project Description
+We are Sam Rowland and Saeshu Karthika, both sophomores majoring in Computer Science. We have created "Savor," an online platform designed to search for recipes, like or unlike a recipe, upload your own recipe when you sign up and also get a recipe by searching using the ingredients you have to optimize your time. Searching for recipes online can often be tedious, riddled with advertisements and irrelevant information. Savor aims to streamline this process by providing users with a platform to freely exchange recipes, upvote their favorites, and discover new recipes based on available ingredients.
