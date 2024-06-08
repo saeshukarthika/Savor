@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "6635b1fe434018b8ec02bcd4"
+  },
+  "author": "John Smith",
+  "uploadDate": "3/3/2024",
+  "prepTime": "25-37 minutes",
+  "ingredients": [
+    "12 oz (340g) fettuccine pasta",
+    "1/2 cup (1 stick) unsalted butter",
+    "1 cup heavy cream",
+    "1 cup grated Parmesan cheese",
+    "Salt and freshly ground black pepper, to taste",
+    "Chopped fresh parsley, for garnish (optional)"
+  ],
+  "instructions": [
+    "Cook the fettuccine pasta according to the package instructions in a large pot of salted boiling water until al dente. Drain the pasta and set aside, reserving about 1/2 cup of the pasta cooking water.",
+    "In a large skillet or saucepan, melt the butter over medium heat. Once melted, add the heavy cream and bring it to a simmer.",
+    "Reduce the heat to low and gradually whisk in the grated Parmesan cheese until the sauce is smooth and creamy. If the sauce seems too thick, you can thin it out with a little bit of the reserved pasta cooking water.",
+    "Season the sauce with salt and freshly ground black pepper to taste. Keep warm over low heat while you prepare the pasta.",
+    "Add the cooked fettuccine to the skillet with the sauce and toss until the pasta is evenly coated.",
+    "Serve the Fettuccine Alfredo hot, garnished with chopped fresh parsley if desired. Enjoy!",
+    "Note: You can also add cooked chicken, shrimp, or vegetables to the Fettuccine Alfredo for additional flavor and protein. Simply cook your protein or vegetables separately and add them to the pasta along with the sauce in step 5."
+  ],
+  "image": "https://github.com/SamRowland/savorfinal/blob/main/images/fettuccine.jpg?raw=true",
+  "name": "Fettucine",
+  "likes": 5
+},
+{
+  "_id": {
+    "$oid": "6635b1fe434018b8ec02bcd5"
+  },
+  "name": "Pepperoni Lasagna",
+  "author": "John Smith",
+  "uploadDate": "3/3/2024",
+  "image": "https://github.com/SamRowland/savorfinal/blob/main/images/pepperoni%20lasagna.jpg?raw=true",
+  "prepTime": "70-92 minutes",
+  "ingredients": [
+    "9 lasagna noodles",
+    "1 lb (450g) ground beef",
+    "1 cup diced onion",
+    "3 cloves garlic, minced",
+    "1 (24 oz) jar of marinara sauce",
+    "1 teaspoon dried oregano",
+    "1 teaspoon dried basil",
+    "Salt and pepper to taste",
+    "2 cups shredded mozzarella cheese",
+    "1 cup grated Parmesan cheese",
+    "1 cup sliced pepperoni",
+    "Fresh basil leaves for garnish (optional)"
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook the ground beef over medium heat until browned and cooked through. Drain any excess fat from the skillet.",
+    "Add the diced onion and minced garlic to the skillet with the ground beef. Cook for a few minutes until the onion is softened.",
+    "Stir in the marinara sauce, dried oregano, and dried basil. Season with salt and pepper to taste. Simmer the sauce for about 5-10 minutes, then remove it from the heat.",
+    "In a 9x13 inch baking dish, spread a thin layer of the meat sauce on the bottom. Place 3 lasagna noodles on top of the sauce, slightly overlapping them.",
+    "Spread a layer of the meat sauce over the noodles, followed by a layer of shredded mozzarella cheese, grated Parmesan cheese, and sliced pepperoni.",
+    "Repeat the layers: noodles, meat sauce, cheeses, and pepperoni, until you've used all the ingredients, finishing with a layer of cheese and pepperoni on top.",
+    "Cover the baking dish with aluminum foil and bake in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove the foil and bake for an additional 5-10 minutes until the cheese is golden brown.",
+    "Let the lasagna cool for a few minutes before slicing and serving. Garnish with fresh basil leaves if desired."
+  ],
+  "likes": 10
+},
+{
+  "_id": {
+    "$oid": "6635b1fe434018b8ec02bcd6"
+  },
+  "name": "Baked Chicken with Spinach Stuffing",
+  "author": "John Smith",
+  "uploadDate": "3/3/2024",
+  "image": "https://github.com/SamRowland/savorfinal/blob/main/images/baked%20chicken.jpeg?raw=true",
+  "prepTime": "50-62 minutes",
+  "ingredients": [
+    "4 boneless, skinless chicken breasts",
+    "Salt and pepper, to taste",
+    "1 tablespoon olive oil",
+    "2 cloves garlic, minced",
+    "4 cups fresh spinach leaves, chopped",
+    "1 cup ricotta cheese",
+    "1/2 cup grated Parmesan cheese",
+    "1/4 cup shredded mozzarella cheese",
+    "1/4 teaspoon nutmeg",
+    "1/4 teaspoon red pepper flakes (optional)",
+    "1/4 cup breadcrumbs (optional)",
+    "Fresh parsley, chopped, for garnish (optional)"
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Use a sharp knife to make a horizontal slit along the thick side of each chicken breast, creating a pocket for the stuffing. Be careful not to cut all the way through.",
+    "Season the chicken breasts with salt and pepper, both inside and out.",
+    "In a skillet, heat olive oil over medium heat. Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Add chopped spinach to the skillet and cook until wilted, about 2-3 minutes.",
+    "In a mixing bowl, combine the cooked spinach, ricotta cheese, grated Parmesan cheese, shredded mozzarella cheese, nutmeg, and red pepper flakes (if using). Mix until well combined.",
+    "Stuff each chicken breast with the spinach and cheese mixture, dividing it evenly among the breasts. Secure the openings with toothpicks if necessary.",
+    "Place the stuffed chicken breasts in a baking dish. If desired, sprinkle breadcrumbs over the top of each breast for added texture.",
+    "Bake in the preheated oven for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F (74°C).",
+    "Once cooked, remove the toothpicks from the chicken breasts. Garnish with chopped parsley if desired, and serve hot."
+  ],
+  "likes": 35
+}]

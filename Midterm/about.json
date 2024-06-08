@@ -1,0 +1,19 @@
+{
+    "members":
+    [
+        {
+            "name": "Sam Rowland",
+            "major": "Computer Science",
+            "imagesrc": "./images/sam rowland.jpg",
+            "imagewidth": 350,
+            "imageheight": 500,
+            "description": "I’m Sam Rowland, a sophomore majoring in computer science. In previous classes, I have learned to program using Python, Java, and many general programming skills, such as working with objects, functions, and data types."
+        },
+        {
+            "name": "Saeshu Karthika",
+            "major": "Computer Science",
+            "imagesrc": "./images/saeshu.jpg",
+            "description": "I’m Saeshu Karthika, a sophomore majoring in Computer Science. My current focus has been on learning Java and Python programming languages. Additionally, as a minor in Data Science, I am delving into the creation of models from data, as well as their testing and training, primarily using Python."
+        }
+    ]
+}
